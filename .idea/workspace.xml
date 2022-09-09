@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df3499e6-40a0-43e2-b26d-6f5226db93e5" name="Changes" comment="апдейт главного класса и вспомогательных функций">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/probe1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/probe1/Cats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/probe1/Human.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/probe1/Hypo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/probe1/Squirrel.class" afterDir="false" />
+    <list default="true" id="df3499e6-40a0-43e2-b26d-6f5226db93e5" name="Changes" comment="apd10/09">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/probe1/Functions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/probe1/Functions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZooDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZooDoctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZooKeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZooKeeper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662580051959</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="апдейт главного класса и вспомогательных функций">
+      <created>1662580812006</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662580812006</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +196,7 @@
     <MESSAGE value="123" />
     <MESSAGE value="1234" />
     <MESSAGE value="апдейт главного класса и вспомогательных функций" />
-    <option name="LAST_COMMIT_MESSAGE" value="апдейт главного класса и вспомогательных функций" />
+    <MESSAGE value="apd10/09" />
+    <option name="LAST_COMMIT_MESSAGE" value="apd10/09" />
   </component>
 </project>
