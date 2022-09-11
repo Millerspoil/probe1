@@ -4,8 +4,6 @@
     <list default="true" id="df3499e6-40a0-43e2-b26d-6f5226db93e5" name="Changes" comment="почти доделана логика работы главного класса и сделан метод взаимодействия доктора с кошачьими">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZooDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZooDoctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZooKeeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZooKeeper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662922704088</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="почти доделана логика работы главного класса и сделан метод взаимодействия доктора с кошачьими">
+      <created>1662923220834</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662923220834</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
